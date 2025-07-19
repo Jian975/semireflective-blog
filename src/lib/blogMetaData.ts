@@ -1,4 +1,4 @@
 export const blogMetaData = {
-  blogTitle: 'BlogTemplate',
-  description: 'A full featured blog template build with sveltekit'
+  blogTitle: 'Semi-Reflective Blog',
+  description: 'A blog about whatever interests me at the moment.'
 }

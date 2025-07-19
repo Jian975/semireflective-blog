@@ -43,5 +43,5 @@
 />
 <div class="about-container">
   <h1>About</h1>
-  <p>Tell People about you!!</p>
+  <p>I write whatever I feel like writing here.</p>
 </div>
