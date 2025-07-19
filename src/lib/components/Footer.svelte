@@ -10,7 +10,7 @@
       <a href="/rss.xml" class="footer__links__item__link">RSS Feed</a>
     </li>
     <li class="footer__links_item">
-      <span class="footer__copy-right">© 2021 Yourname</span>
+      <span class="footer__copy-right">© 2025 Xuejian Sundvall</span>
     </li>
   </ul>
 </footer>
