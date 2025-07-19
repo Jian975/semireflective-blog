@@ -41,14 +41,6 @@
         "vercel",
         "vite"
       ]
-    },
-    {
-      "body": "<p>hello world</p>\n",
-      "title": "Hello Everyone",
-      "date": "2025-07-19T00:00:00.000Z",
-      "description": "This is my first blog post",
-      "isCompleted": true,
-      "slug": "new-blog-post"
     }
   ]
 }
