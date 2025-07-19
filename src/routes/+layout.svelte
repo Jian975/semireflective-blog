@@ -4,8 +4,8 @@
   import Container from "$lib/components/Container.svelte";
   import Content from "$lib/components/Content.svelte";
   import Footer from "$lib/components/Footer.svelte";
-  import { injectAnalytics } from '@vercel/analytics/sveltekit'
-  injectAnalytics();
+  import { inject } from '@vercel/analytics';
+  inject();
 </script>
 
 <Container>
