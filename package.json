@@ -35,6 +35,7 @@
   },
   "type": "module",
   "dependencies": {
+    "@vercel/analytics": "^1.5.0",
     "fecha": "^4.2.3",
     "highlight.js": "^11.11.1",
     "svelte-meta-tags": "^4.4.0"
