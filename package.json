@@ -10,7 +10,8 @@
     "lint": "eslint --ignore-path .gitignore .",
     "test": "playwright test",
     "test:unit": "vitest",
-    "md-to-json": "node ./scripts/markdownToJSON.js"
+    "md-to-json": "node ./scripts/markdownToJSON.js",
+    "deploy": "npm run build && npx gh-pages -d build"
   },
   "devDependencies": {
     "@playwright/test": "^1.54.1",

@@ -1,5 +1,5 @@
 import preprocess from "svelte-preprocess";
-import adapter from "@sveltejs/adapter-static";
+import adapter from "@sveltejs/adapter-auto";
 import { resolve } from "path";
 
 const config = {
@@ -18,10 +18,7 @@ const config = {
     alias: {
       $lib: "src/lib",
       $data: "src/data",
-    },
-    paths: {
-      base: "/semi-reflective-blog",
-    },
+    }
   },
 };
 
