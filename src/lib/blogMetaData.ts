@@ -1,4 +1,4 @@
 export const blogMetaData = {
-  blogTitle: 'A Bad Person\' Guide to Being Good',
+  blogTitle: 'A Totally Epic Blog',
   description: 'A blog about whatever interests me at the moment.'
 }
